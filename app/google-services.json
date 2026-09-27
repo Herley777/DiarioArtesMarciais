@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698570921997",
+    "project_id": "diarioartesmarciais",
+    "storage_bucket": "diarioartesmarciais.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698570921997:android:fe76a22b2866ea46af1d44",
+        "android_client_info": {
+          "package_name": "com.example.diarioartesmarciais"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqaThREYMxdhM8CBPWlkXFq7H2icdPTzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
