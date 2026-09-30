@@ -231,7 +231,18 @@ O vídeo apresenta o funcionamento do aplicativo, incluindo:
 - Firebase Cloud Firestore;
 - Dados armazenados no banco de dados.
 
-**Link do vídeo:** será adicionado após a gravação.
+**Link do vídeo:
+
+## 🎥 Vídeos da apresentação
+
+### 📱 Aplicativo funcionando
+https://youtube.com/shorts/lImH1e-vxpw?feature=share
+
+### 💻 Código – MainActivity e build.gradle
+https://youtu.be/7F5CAbYXYRk
+
+### 🔥 Firebase Firestore
+https://youtu.be/5dljNmS1tsU
 
 
 
